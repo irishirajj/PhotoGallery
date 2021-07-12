@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">PhotoFrame</string>
+    <string name="app_name">The RJ Gallery</string>
+    <string name="betukesath">Mono Pyare Betu</string>
+    <string name="beautiful">Chote Baby</string>
+    <string name="dancing">Dancing Baby</string>
+    <string name="monoteddybear">Mono Barbie Doll</string>
+    <string name="mostbeautiful">Moust Beautiful Lady</string>
+    <string name="pyarebaby">Mono Pyare-Dulare Baccha</string>
+    <string name="rishi">Baby Ke Hubby</string>
 </resources>
